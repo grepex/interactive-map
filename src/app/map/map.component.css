@@ -1,0 +1,20 @@
+.container {
+  padding-top: 50px;
+}
+.col-md {
+  padding-left: 20px;
+}
+.table {
+  margin: auto;
+  max-width: 60%;
+}
+svg {
+  width: 100%;
+  fill: #145369;
+}
+svg path {
+  transition: fill 0.3s ease;
+}
+svg:hover path:hover {
+  fill: #2596be;
+}
